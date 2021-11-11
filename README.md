@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-[![Employee Tracker demo](https://img.youtube.com/vi/watch?v=C1BpYAdQYfo/hqdefault.jpg)](https://www.youtube.com/watch?v=C1BpYAdQYfo)
+[![Employee Tracker demo](./tracker-preview.png)](https://www.youtube.com/watch?v=C1BpYAdQYfo)
 
 ## Acceptance Criteria
 
